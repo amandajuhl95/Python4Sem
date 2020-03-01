@@ -1,16 +1,15 @@
 stud_name,gender,course_name,teacher,ects,classroom,grade,img_url
-Hyben,Agender,Python,Jon,10,264,10,https://i.ytimg.com/vi/lBosbEgC_5o/hqdefault.jpg
-Hyben,Agender,Programming,Thomas,15,264,4,https://i.ytimg.com/vi/lBosbEgC_5o/hqdefault.jpg
-Hyben,Agender,Python,Tine,5,264,7,https://i.ytimg.com/vi/lBosbEgC_5o/hqdefault.jpg
-Jonas,Genderfluid,Python,Tue,5,301,4,http://3.bp.blogspot.com/-uoHXkY0ttDU/T98R1DYew9I/AAAAAAAAG5E/15Qb-05Wh1I/s1600/funny+face+expressions+%2819%29.jpg
-Jonas,Genderfluid,System Development,Thomas,15,103,7,http://3.bp.blogspot.com/-uoHXkY0ttDU/T98R1DYew9I/AAAAAAAAG5E/15Qb-05Wh1I/s1600/funny+face+expressions+%2819%29.jpg
-Jonas,Genderfluid,Python,Tobias,15,301,4,http://3.bp.blogspot.com/-uoHXkY0ttDU/T98R1DYew9I/AAAAAAAAG5E/15Qb-05Wh1I/s1600/funny+face+expressions+%2819%29.jpg
-Jonas,Genderfluid,Danish,Tue,15,205,7,http://3.bp.blogspot.com/-uoHXkY0ttDU/T98R1DYew9I/AAAAAAAAG5E/15Qb-05Wh1I/s1600/funny+face+expressions+%2819%29.jpg
-Harald,Male,System Development,Tue,15,264,4,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
-Harald,Male,Python,Tine,5,205,7,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
-Harald,Male,Surfing,Tobias,30,301,4,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
-Harald,Male,Surfing,Tine,30,301,12,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
-Amanda,Female,Python,Tine,15,301,10,http://lava360.com/wp-content/uploads/2016/04/Spot-on-funny-caricatures-from-photos1.0.jpg
-Amanda,Female,Surfing,Jon,10,264,2,http://lava360.com/wp-content/uploads/2016/04/Spot-on-funny-caricatures-from-photos1.0.jpg
-Amanda,Female,System Development,Jon,30,301,2,http://lava360.com/wp-content/uploads/2016/04/Spot-on-funny-caricatures-from-photos1.0.jpg
-Amanda,Female,Witchery,Tine,5,205,0,http://lava360.com/wp-content/uploads/2016/04/Spot-on-funny-caricatures-from-photos1.0.jpg
+Dominik,Agender,Danish,Tine,10,103,2,https://i.ytimg.com/vi/lBosbEgC_5o/hqdefault.jpg
+Dominik,Agender,Danish,Tine,15,205,4,https://i.ytimg.com/vi/lBosbEgC_5o/hqdefault.jpg
+Dominik,Agender,Surfing,Thomas,10,103,12,https://i.ytimg.com/vi/lBosbEgC_5o/hqdefault.jpg
+Dominik,Agender,System Development,Thomas,15,264,0,https://i.ytimg.com/vi/lBosbEgC_5o/hqdefault.jpg
+Jonas,Male,System Development,Tobias,5,264,2,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
+Jonas,Male,System Development,Thomas,15,205,2,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
+Jonas,Male,Programming,Thomas,30,264,4,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
+Jonas,Male,Programming,Tobias,10,264,0,http://www.kgsartwear.com/wp-content/uploads/2013/07/upperlip.jpg
+Andrea,Agender,Witchery,Tobias,10,301,4,http://4.bp.blogspot.com/-NciOIYoZS6I/T98R7LJymiI/AAAAAAAAG5U/ZVRFD25RxD8/s1600/funny+face+expressions+%2820%29.jpg
+Andrea,Agender,Python,Tobias,15,264,10,http://4.bp.blogspot.com/-NciOIYoZS6I/T98R7LJymiI/AAAAAAAAG5U/ZVRFD25RxD8/s1600/funny+face+expressions+%2820%29.jpg
+Andrea,Agender,System Development,Jon,15,205,4,http://4.bp.blogspot.com/-NciOIYoZS6I/T98R7LJymiI/AAAAAAAAG5U/ZVRFD25RxD8/s1600/funny+face+expressions+%2820%29.jpg
+Amalie,Male,Python,Thomas,10,301,12,http://3.bp.blogspot.com/-uoHXkY0ttDU/T98R1DYew9I/AAAAAAAAG5E/15Qb-05Wh1I/s1600/funny+face+expressions+%2819%29.jpg
+Amalie,Male,Programming,Tobias,10,205,7,http://3.bp.blogspot.com/-uoHXkY0ttDU/T98R1DYew9I/AAAAAAAAG5E/15Qb-05Wh1I/s1600/funny+face+expressions+%2819%29.jpg
+Amalie,Male,Witchery,Jon,5,264,4,http://3.bp.blogspot.com/-uoHXkY0ttDU/T98R1DYew9I/AAAAAAAAG5E/15Qb-05Wh1I/s1600/funny+face+expressions+%2819%29.jpg
