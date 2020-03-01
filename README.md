@@ -1,10 +1,10 @@
 ## Python 4 Semester
 
 ### Week 1
-(https://github.com/amandajuhl95/Python4Sem/tree/master/Week1-Exercise)[here]
+[here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week1-Exercise)
 
 ### Week 2
-(https://github.com/amandajuhl95/Python4Sem/tree/master/Week2-Exercise)[here]
+[here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week2-Exercise)
 
 ### Week 3
-(https://github.com/amandajuhl95/Python4Sem/tree/master/Week3-Exercise)[here]
+[here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week3-Exercise)
