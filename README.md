@@ -14,4 +14,4 @@
 
 #### Week 4: Numpy and masking
 
-- [here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week4-Exercise)
+- [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week4-Exercise)
