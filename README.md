@@ -15,3 +15,7 @@
 #### Week 4: Numpy and masking
 
 - [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week4-Exercise)
+
+#### Week 7: Webscraping and Selenium 
+
+- [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week7-Exercise)
