@@ -18,4 +18,6 @@
 
 #### Week 7: Webscraping and Selenium 
 
+* I did the exercises from the group "Free Range Chicken"
+
 - [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week7-Exercise)
