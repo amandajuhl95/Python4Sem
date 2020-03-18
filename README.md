@@ -15,3 +15,9 @@
 #### Week 4: Numpy and masking
 
 - [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week4-Exercise)
+
+#### Week 7: Webscraping and Selenium 
+
+* I did all exercises from the group "Free Range Chicken"
+
+- [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week7-Exercise)
