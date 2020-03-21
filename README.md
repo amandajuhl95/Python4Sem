@@ -25,3 +25,9 @@
 * I did all exercises from the group "Free Range Chicken"
 
 - [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week7-Exercise)
+
+#### Week 8: Data Persistence and Web Services
+
+* I did all exercises from the group "Blushing Unit"
+
+- [Here](https://github.com/amandajuhl95/Python4Sem/blob/master/Week8-Exercise/week8-exercise.ipynb)
