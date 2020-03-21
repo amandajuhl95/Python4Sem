@@ -30,4 +30,4 @@
 
 * I did all exercises from the group "Blushing Unit"
 
-- [Here](https://github.com/amandajuhl95/Python4Sem/blob/master/Week8-Exercise/week8-exercise.ipynb)
+- [Here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week8-Exercise)
