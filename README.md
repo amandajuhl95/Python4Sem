@@ -20,9 +20,9 @@
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week5-Exercise)
 
-#### Week 6: Pandas dataframe
+#### Week 6: 
 
-- [Click here]()
+- [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week6-Exercise)
 
 #### Week 7: Webscraping and Selenium 
 
@@ -46,6 +46,6 @@
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week10-Exercise)
 
-#### Week 11: Dataset with rat's and mice
+#### Week 11: Perceptron and
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week11-Exercise)
