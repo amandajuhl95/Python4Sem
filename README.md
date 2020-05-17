@@ -20,7 +20,7 @@
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week5-Exercise)
 
-#### Week 6: 
+#### Week 6: Iterators and Generators
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week6-Exercise)
 
@@ -46,6 +46,6 @@
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week10-Exercise)
 
-#### Week 11: Perceptron and
+#### Week 11: Perceptrons 
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week11-Exercise)
