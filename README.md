@@ -20,6 +20,10 @@
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week5-Exercise)
 
+#### Week 6: Pandas dataframe
+
+- [Click here]()
+
 #### Week 7: Webscraping and Selenium 
 
 * I did all exercises from the group "Free Range Chicken"
@@ -41,3 +45,7 @@
 #### Week 10: Machine Learning
 
 - [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week10-Exercise)
+
+#### Week 11: Dataset with rat's and mice
+
+- [Click here](https://github.com/amandajuhl95/Python4Sem/tree/master/Week11-Exercise)
